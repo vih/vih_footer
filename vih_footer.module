@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the VIH Footer feature.
+ */
+
+include_once 'vih_footer.features.inc';
